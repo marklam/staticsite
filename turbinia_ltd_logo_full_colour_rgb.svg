@@ -1,0 +1,32 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 340.1585 85.039">
+  <defs>
+    <pattern id="Unnamed_Pattern_10" data-name="Unnamed Pattern 10" width="60.8004" height="60.8004" patternTransform="matrix(1.5, 0, 0, -1.5, 1473.2977, 25547.6096)" patternUnits="userSpaceOnUse" viewBox="0 0 60.8 60.8">
+      <rect width="60.8004" height="60.8004" style="fill: none"/>
+      <rect width="60.8" height="60.8" style="fill: #173449"/>
+    </pattern>
+    <pattern id="Unnamed_Pattern_10-7" data-name="Unnamed Pattern 10" width="60.8004" height="60.8004" patternTransform="translate(2142.0783 -37636.4236) scale(2.25)" patternUnits="userSpaceOnUse" viewBox="0 0 60.8 60.8">
+      <rect width="60.8004" height="60.8004" style="fill: none"/>
+      <rect width="60.8" height="60.8" style="fill: #173449"/>
+    </pattern>
+  </defs>
+  <g>
+    <g id="type">
+      <path id="type_PathItem_" data-name="type &lt;PathItem&gt;" d="M111.938,67.7412c-7.488.792-13.033-2.88-13.033-10.873V35.9142H95.161v-4.897h3.744V17.1922h5.616v13.825h7.417v4.897h-7.417v20.954c0,4.104,2.736,6.265,7.417,5.905Z" style="fill: url(#Unnamed_Pattern_10)"/>
+      <path id="type_PathItem_2" data-name="type &lt;PathItem&gt;" d="M152.5259,65.6533a41.6789,41.6789,0,0,1-14.474,2.809c-10.297,0-18.649-5.906-18.649-16.779V30.9453h5.616v20.738c0,7.778,5.833,11.738,12.961,11.738a24.2658,24.2658,0,0,0,8.858-1.296V30.8733h5.688Z" style="fill: url(#Unnamed_Pattern_10)"/>
+      <path id="type_PathItem_3" data-name="type &lt;PathItem&gt;" d="M167.1216,30.8017l.576,4.68c3.673-6.192,12.026-6.408,17.354-3.744l-2.088,4.897c-7.489-3.529-15.05.647-15.05,8.929v21.962h-5.616V30.8017Z" style="fill: url(#Unnamed_Pattern_10)"/>
+      <path id="type_CompoundPathItem_" data-name="type &lt;CompoundPathItem&gt;" d="M197.2023,16.7611V32.17a17.8933,17.8933,0,0,1,8.425-1.945c12.241,0,19.011,9.793,19.011,19.226.072,9.434-6.697,18.866-19.011,18.866a43.6192,43.6192,0,0,1-14.041-2.015V16.7611Zm21.891,32.69c-.072-6.769-4.753-14.185-13.466-14.185a23.2754,23.2754,0,0,0-8.425,1.584v25.563a32.981,32.981,0,0,0,8.425,1.08c8.7849,0,13.537-7.345,13.466-14.042" style="fill: url(#Unnamed_Pattern_10-7)"/>
+      <path id="type_CompoundPathItem_2" data-name="type &lt;CompoundPathItem&gt;" d="M233.5487,24.8974v-8.065h5.833v8.065m-5.761,5.76h5.688v36.868h-5.688Z" style="fill: url(#Unnamed_Pattern_10-7)"/>
+      <path id="type_PathItem_4" data-name="type &lt;PathItem&gt;" d="M250.4888,32.89a41.7542,41.7542,0,0,1,14.5449-2.809c10.2251,0,18.578,5.761,18.578,16.562v20.882h-5.617V46.6431c0-11.665-13.0329-13.321-21.8179-10.225v31.107h-5.688Z" style="fill: url(#Unnamed_Pattern_10)"/>
+      <path id="type_CompoundPathItem_3" data-name="type &lt;CompoundPathItem&gt;" d="M294.3137,24.8974v-8.065h5.833v8.065m-5.76,5.76h5.688v36.868h-5.688Z" style="fill: url(#Unnamed_Pattern_10-7)"/>
+      <path id="type_CompoundPathItem_4" data-name="type &lt;CompoundPathItem&gt;" d="M335.7665,67.5254l-.792-3.24c-2.593,2.52-6.481,3.672-10.154,3.744-22.105.216-21.746-25.059.649-24.771a20.1649,20.1649,0,0,1,9.288,2.521v-.72c0-12.386-13.753-11.953-20.953-6.841l-2.881-3.312c10.081-8.425,29.235-6.337,29.235,10.153v22.466Zm-10.226-19.586c-15.409.072-15.841,15.121-.72,15.121,3.529,0,7.633-1.224,9.937-3.96v-8.785a17.2868,17.2868,0,0,0-9.217-2.376" style="fill: url(#Unnamed_Pattern_10-7)"/>
+    </g>
+    <g id="logoMark">
+      <path id="logoMark_PathItem_" data-name="logoMark &lt;PathItem&gt;" d="M25.2954,69.6386a2.9677,2.9677,0,0,1-2.808-3.924,51.0045,51.0045,0,0,1,12.142-19.5L46.2154,34.63a45.0539,45.0539,0,0,0,10.723-17.22,2.9661,2.9661,0,1,1,5.615,1.914A51.006,51.006,0,0,1,50.41,38.8246L38.8254,50.41a45.0358,45.0358,0,0,0-10.722,17.219,2.9675,2.9675,0,0,1-2.808,2.01" style="fill: url(#Unnamed_Pattern_10)"/>
+      <path id="logoMark_PathItem_2" data-name="logoMark &lt;PathItem&gt;" d="M48.7583,17.4672H26.01v-3.955h22.748a1.9775,1.9775,0,1,1,0,3.955" style="fill: #67accb"/>
+      <path id="logoMark_PathItem_3" data-name="logoMark &lt;PathItem&gt;" d="M43.0727,28.1972H29.1087a1.9775,1.9775,0,0,1,0-3.955h13.964a1.9775,1.9775,0,1,1,0,3.955" style="fill: #67accb"/>
+      <path id="logoMark_PathItem_4" data-name="logoMark &lt;PathItem&gt;" d="M36.2827,67.5712H59.92v3.955H36.2827a1.9775,1.9775,0,1,1,0-3.955" style="fill: #67accb"/>
+      <path id="logoMark_PathItem_5" data-name="logoMark &lt;PathItem&gt;" d="M41.9683,56.84h14.556a1.9775,1.9775,0,0,1,0,3.955H41.9683a1.9775,1.9775,0,1,1,0-3.955" style="fill: #67accb"/>
+      <path id="logoMark_PathItem_6" data-name="logoMark &lt;PathItem&gt;" d="M42.52,85.039A42.5191,42.5191,0,0,1,11.582,13.352a2.9662,2.9662,0,1,1,4.316,4.07A36.594,36.594,0,0,0,58.813,75.287,44.9394,44.9394,0,0,0,46.215,50.41L34.629,38.825A50.8869,50.8869,0,0,1,20.071,8.418a2.9674,2.9674,0,0,1,1.484-2.899,42.524,42.524,0,0,1,51.91,66.162,2.9669,2.9669,0,1,1-4.317-4.071A36.5934,36.5934,0,0,0,26.228,9.752,44.9362,44.9362,0,0,0,38.826,34.629L50.411,46.214A50.8938,50.8938,0,0,1,64.97,76.621a2.9684,2.9684,0,0,1-1.485,2.898,42.5271,42.5271,0,0,1-20.965,5.52" style="fill: #67accb"/>
+    </g>
+  </g>
+</svg>
